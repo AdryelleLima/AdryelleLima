@@ -8,7 +8,8 @@ Graduada em **Gestão de TI** e acadêmica de **Análise e Desenvolvimento de Si
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** (2º Semestre).
 - 🎓 Graduada em **Tecnologia em Gestão de TI**.
-- 💻 Atualmente focada nos estudos de **Java**, **JavaScript**, **MySQL**, **HTML5** e **Pascal**.
+- 🏆 Formada pelo programa **Jovem Programador do Senac (2025)**, onde adquiri base prática em **Java, JavaScript, HTML, CSS e MySQL**.
+- 💻 Atualmente aprofundando essas tecnologias na faculdade e expandindo meus conhecimentos em lógica de programação com **Pascal**.
 - 🎯 Buscando oportunidades na área de desenvolvimento de software (**Estágio** ou **Desenvolvedora Júnior**).
 
 ---
@@ -20,6 +21,7 @@ Graduada em **Gestão de TI** e acadêmica de **Análise e Desenvolvimento de Si
 ![Pascal](https://img.shields.io/badge/Pascal-00599C?style=for-the-badge&logo=delphi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
